@@ -1,0 +1,14 @@
+select, input {
+	width: 100px;
+	color: blue;
+	background: #ccc;
+}
+
+.pesho {
+	pesho: red;
+}
+
+.gosho {
+  color: blue;
+}
+
